@@ -42,5 +42,4 @@ You will be prompted to enter tensor dimensions and values through the CLI, or y
 ---
 
 ## License
-
-This project is licensed under the MIT License. See the LICENSE(LICENSE)
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
