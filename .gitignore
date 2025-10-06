@@ -1,0 +1,31 @@
+# --- Python bytecode & caches ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+
+# --- Packaging / builds (if you ever package it) ---
+build/
+dist/
+*.egg-info/
+
+# --- Test/coverage caches (if you add tests later) ---
+.pytest_cache/
+.coverage
+htmlcov/
+
+# --- Editors/OS junk ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Logs / misc ---
+*.log
+*.cache
