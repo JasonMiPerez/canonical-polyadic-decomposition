@@ -1,7 +1,6 @@
 # CP Decomposition (Python CLI Tool)
 
-A command-line program in Python that performs **Canonical Polyadic (CP) tensor decomposition** using the **Alternating Least Squares (ALS)** algorithm.  
-It supports **HOSVD-based initialization**, **rank auto-detection**, normalization of factors, and reconstruction error evaluation.
+A command-line program in Python that performs **Canonical Polyadic (CP) tensor decomposition** using the **Alternating Least Squares (ALS)** algorithm. It supports **HOSVD-based initialization**, **rank auto-detection**, normalization of factors, and reconstruction error evaluation.
 
 ---
 
